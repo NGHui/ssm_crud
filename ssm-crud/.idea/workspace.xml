@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm-crud:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/register.jsp" line="69" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba539a33-e129-4899-b098-387447dc1987" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/dao/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="31" column="34" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13104">
+              <caret line="468" column="79" selection-start-line="468" selection-start-column="79" selection-end-line="468" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/controller/EmployeeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4900">
+              <caret line="194" column="13" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/register.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2716">
+              <caret line="97" selection-start-line="97" selection-end-line="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/pojo/Department.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/pojo/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>guigu</find>
+      <find>bean</find>
+      <find>com.hui.crud.hui</find>
+      <find>com.hui.crud.dao.DepartmentMapper.BaseResultMap</find>
+      <find>atguigu</find>
+      <find>com.hui.crud.pojo</find>
+      <find>javax.servlet.jsp</find>
+      <find>empName_add_input</find>
+      <find>empNamee</find>
+      <find>empName</find>
+      <find>help-block</find>
+      <find>reulst</find>
+      <find>result</find>
+      <find>edit-id</find>
+      <find>$(this).attr(&quot;edit-id&quot;)</find>
+      <find>emp_update_btn</find>
+      <find>com.hui.crud.dao.DepartmentMapper</find>
+      <find>../css/</find>
+      <find>CSS/</find>
+      <find>insert</find>
+      <find>register-password</find>
+      <find>regidter</find>
+      <find>register-agree</find>
+      <find>checkbox-template</find>
+      <find>checked</find>
+      <find>checkbox_item</find>
+      <find>check</find>
+      <find>check_item</find>
+      <find>checkbox</find>
+      <find>check_all</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>deptName</replace>
+      <replace />
+      <replace>hui</replace>
+      <replace>com.hui.crud.pojo</replace>
+      <replace>pojo</replace>
+      <replace>../css/</replace>
+      <replace>CSS/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\java_hui_system\ssm-crud\src\main\resources\Spring</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/mbg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/test/MBGTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/bean/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/pojo/DepartmentExample.java" />
+        <option value="$PROJECT_DIR$/mbg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/dao/EmployeeMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/EmployeeMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/pojo/Department.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc/db.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/DepartmentMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/TestUUID.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/utils/TestData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/test/MapperTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/test/MvcTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/listener/ServerStartupListener.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/emps.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/pojo/Msg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/commons/DataGrid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/commons/Msg.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis/mybatis.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/service/DepartmentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/service/EmployeeService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/commons/User.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/webproject/login.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/commons/CrudResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/service/impl/UserSErviceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/service/impl/EmployeeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/controller/DepartmentController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/dao/DepartmentMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Spring/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/service/impl/DepartmentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/layui/layui.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/pojo/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/pojo/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/Spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index1.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/register.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/crud/controller/EmployeeController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="jdk-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm-crud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm-crud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="240" />
+    <option name="y" value="125" />
+    <option name="width" value="1440" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hui" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hui" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-crud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: javax.validation:validation-api:1.1.0.Final" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java_hui_system\ssm-crud" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_hui_system\ssm-crud\src\main\webapp\static" />
+      <recent name="D:\java_hui_system\ssm-crud\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\java_hui_system\ssm-crud\src\main\webapp\static\webapp" />
+      <recent name="D:\java_hui_system\ssm-crud\src\main\webapp" />
+      <recent name="D:\java_hui_system\ssm-crud\src\main\webapp\static\bootstrap" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestUUID">
+    <configuration name="TestUUID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestUUID" />
+      <module name="ssm-crud" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm-crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hui.crud.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hui.crud.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hui.crud.test.MapperTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MvcTest.testPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm-crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hui.crud.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hui.crud.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hui.crud.test.MvcTest" />
+      <option name="METHOD_NAME" value="testPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ssm-crud [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.5.40" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.40" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ssm_crud_war/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ssm-crud:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ssm_crud_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ssm-crud" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8870" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm-crud:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestUUID" />
+      <item itemvalue="JUnit.MvcTest.testPage" />
+      <item itemvalue="JUnit.MapperTest.test" />
+      <item itemvalue="Maven.ssm-crud [tomcat7:run]" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.40" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestUUID" />
+        <item itemvalue="JUnit.MapperTest.test" />
+        <item itemvalue="JUnit.MvcTest.testPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba539a33-e129-4899-b098-387447dc1987" name="Default Changelist" comment="" />
+      <created>1567687577528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567687577528</updated>
+      <workItem from="1567687582917" duration="1178000" />
+      <workItem from="1567819562559" duration="966000" />
+      <workItem from="1567833493667" duration="453000" />
+      <workItem from="1567865940138" duration="29000" />
+      <workItem from="1568186311449" duration="4431000" />
+      <workItem from="1568200849769" duration="467000" />
+      <workItem from="1568702943146" duration="3295000" />
+      <workItem from="1568708264131" duration="5654000" />
+      <workItem from="1568765979012" duration="2989000" />
+      <workItem from="1568770149303" duration="5000" />
+      <workItem from="1568770192352" duration="7198000" />
+      <workItem from="1568802619766" duration="6839000" />
+      <workItem from="1568851861063" duration="10412000" />
+      <workItem from="1568875468297" duration="8213000" />
+      <workItem from="1568898420016" duration="1452000" />
+      <workItem from="1568939223773" duration="5207000" />
+      <workItem from="1568960783127" duration="1302000" />
+      <workItem from="1568982779150" duration="598000" />
+      <workItem from="1569027683849" duration="3368000" />
+      <workItem from="1569051088098" duration="13050000" />
+      <workItem from="1569070407214" duration="254000" />
+      <workItem from="1569110859851" duration="28878000" />
+      <workItem from="1569198378944" duration="4595000" />
+      <workItem from="1569237640122" duration="2247000" />
+      <workItem from="1569284453912" duration="26619000" />
+      <workItem from="1569371401838" duration="24749000" />
+      <workItem from="1569456950257" duration="17350000" />
+      <workItem from="1569484328038" duration="8973000" />
+      <workItem from="1569499194126" duration="5021000" />
+      <workItem from="1569542984994" duration="16745000" />
+      <workItem from="1569763311890" duration="1983000" />
+      <workItem from="1569765501928" duration="2018000" />
+      <workItem from="1569801620612" duration="29000" />
+      <workItem from="1570334794486" duration="17000" />
+      <workItem from="1571190126917" duration="5274000" />
+      <workItem from="1571230819447" duration="10000" />
+      <workItem from="1571230840926" duration="1432000" />
+      <workItem from="1571271093735" duration="598000" />
+      <workItem from="1571562015737" duration="5762000" />
+      <workItem from="1571617327612" duration="1242000" />
+      <workItem from="1571829564456" duration="770000" />
+      <workItem from="1571830731633" duration="856000" />
+      <workItem from="1571901254672" duration="154000" />
+      <workItem from="1572604709751" duration="719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MvcTest_testPage - 2019.09.20 at 08h 50m 37s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2019.09.20 at 09h 07m 55s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2019.09.21 at 16h 32m 34s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2019.09.21 at 16h 35m 04s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapperTest_test - 2019.09.23 at 08h 31m 09s.xml">
+      <configuration name="MapperTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapperTest_test - 2019.09.23 at 08h 31m 34s.xml">
+      <configuration name="MapperTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapperTest_test - 2019.09.23 at 08h 31m 39s.xml">
+      <configuration name="MapperTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapperTest_test - 2019.09.23 at 08h 31m 44s.xml">
+      <configuration name="MapperTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapperTest_test - 2019.09.24 at 15h 48m 51s.xml">
+      <configuration name="MapperTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapperTest_test - 2019.09.24 at 16h 04m 33s.xml">
+      <configuration name="MapperTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="233401000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21514745" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.49646392" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.44413012" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.117292225" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18431635" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.51909477" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.44413012" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.18297587" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/listener/ServerStartupListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/layer/skin/default/icon-ext.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/layer/skin/default/icon.png" />
+    <entry file="file://$PROJECT_DIR$/target/classes/com/hui/crud/service/impl/EmployeeServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#1889#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc/db.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/pojo/DepartmentExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="222" column="65" selection-start-line="222" selection-start-column="65" selection-end-line="222" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/commons/DataGrid.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/controller/DepartmentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/dao/DepartmentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/layer/skin/default/layer.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/layui/layui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="3669" selection-start-line="1" selection-start-column="3669" selection-end-line="1" selection-end-column="3669" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/layer/theme/default/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/DepartmentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="101" column="11" lean-forward="true" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
+          <folding>
+            <element signature="n#sql#2;n#mapper#0;n#!!top" />
+            <element signature="n#select#0;n#mapper#0;n#!!top" />
+            <element signature="n#select#1;n#mapper#0;n#!!top" />
+            <element signature="n#delete#0;n#mapper#0;n#!!top" />
+            <element signature="n#delete#1;n#mapper#0;n#!!top" />
+            <element signature="n#select#2;n#mapper#0;n#!!top" />
+            <element signature="n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#update#1;n#mapper#0;n#!!top" />
+            <element signature="n#update#2;n#mapper#0;n#!!top" />
+            <element signature="n#update#3;n#mapper#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/service/DepartmentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/service/EmployeeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/service/impl/DepartmentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.7.RELEASE/spring-web-4.3.7.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/EmployeeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/service/impl/EmployeeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/pojo/EmployeeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/dao/EmployeeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/commons/Msg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="44" column="41" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#success#0;class#Msg#0" />
+            <element signature="method#fail#0;class#Msg#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/commons/CrudResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/test/MapperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/test/MvcTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/test/MBGTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestUUID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="9" selection-start-line="16" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/layer/mobile/layer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar!/org/springframework/validation/BindingResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="130" column="23" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/layer/layer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13104">
+          <caret line="468" column="79" selection-start-line="468" selection-start-column="79" selection-end-line="468" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4900">
+          <caret line="194" column="13" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2716">
+          <caret line="97" selection-start-line="97" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/pojo/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/pojo/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/crud/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ssm-crud</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
